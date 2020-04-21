@@ -5,4 +5,8 @@
  <img width="200" height="200" src=https://dbdzm869oupei.cloudfront.net/img/sticker/large/10870.jpg />
 </p>
 
-- Setting contiene un template de las configuraciones. 
+<p align ="center">Juego básico de ping pong, el cuál contiene música, score de puntos </p>
+
+- setting.py contiene las configuraciones de color, estilo de fuente, el formato.
+- pingpong.py corresponde a la estructura del programa
+
