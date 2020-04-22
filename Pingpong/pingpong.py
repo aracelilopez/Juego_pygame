@@ -1,6 +1,5 @@
 import pygame,sys, random
 from settings import *
-from configurations import *
 
 def ball_animation():
 	global ball_speed_x, ball_speed_y, player_score,opponent_score, score_time
