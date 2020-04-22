@@ -10,3 +10,4 @@
 - setting.py contiene las configuraciones de color, estilo de fuente, el formato.
 - pingpong.py corresponde a la estructura del programa
 
+![alt text] (https://github.com/aracelilopez/Juego_pygame/blob/master/Pingpong/pingpong.png)
